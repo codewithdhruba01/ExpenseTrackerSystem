@@ -54,7 +54,3 @@ graph TD;
 - Add user authentication.
 - Export expense reports in CSV format.
 - Implement a web-based UI for better accessibility.
-
----
-
-Feel free to customize and contribute! 🚀
